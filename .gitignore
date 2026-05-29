@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+prompts.db
+.env
+PromptShield_Report.pdf

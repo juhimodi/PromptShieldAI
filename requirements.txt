@@ -1,0 +1,10 @@
+# streamlit
+# pandas
+# plotly
+# sqlalchemy
+streamlit
+pandas
+plotly
+fpdf
+google-genai
+requests
